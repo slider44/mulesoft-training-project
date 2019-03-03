@@ -1,0 +1,5 @@
+authenticated.users=[{"id"\:"6d34b687-031c-4451-8272-7b05f5b7d15d","token"\:"52e9cbb3-ff87-4ce3-88ae-2c976956b0f8","userId"\:"slider44","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=52e9cbb3-ff87-4ce3-88ae-2c976956b0f8
+current.user=slider44
+eclipse.preferences.version=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"slider44"\:{"first-mule"\:"{\\"applicationName\\"\:\\"first-mule-laguardia\\",\\"muleRuntime\\"\:\\"4.1.3\\",\\"properties\\"\:{}}"}}}
